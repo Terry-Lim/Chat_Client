@@ -5,7 +5,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 import javax.swing.SwingUtilities;
-// 깃 확인ㅇㄴㄹㄴㅇㄻㄴㄴㄻ
+// 저장햇당
 
 
 
