@@ -5,7 +5,11 @@ import java.net.Socket;
 import java.util.Scanner;
 
 import javax.swing.SwingUtilities;
-// 깃 확인
+// 깃 확인ㅇㄴㄹㄴㅇㄻㄴㄴㄻ
+
+
+
+/////아이고 좋아
 public class Main {
 
 	private static final int PORT = 4900;
