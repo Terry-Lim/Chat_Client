@@ -27,7 +27,7 @@ public class Main {
 			SwingUtilities.invokeLater(new Runnable() {
 				@Override
 				public void run() {
-					new GUI_Login(dos, dis,  pw, br);					
+					new GUI_Login(dos, dis,  pw, br);	
 				}
 			});
 			
